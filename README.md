@@ -7,7 +7,7 @@ To compile and use the netty version, build with dependencies using maven
 ```
 mvn clean compile assembly:single
 ```
-Run the jar and edit config.json accordingly.
+Run the jar and edit config.json accordingly. 
 
 ##Configuration
 ```
