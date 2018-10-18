@@ -9,7 +9,7 @@ mvn clean compile assembly:single
 ```
 Run the jar and edit config.json accordingly. 
 
-##Configuration
+## Configuration
 ```
 {
   "versionName": "ProxyCup",
